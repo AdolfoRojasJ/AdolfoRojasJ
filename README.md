@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome to my GITHUB 👋
+### Mechatronic engineer
+### IT infraestructure student
+### Microcontroller Programming
 
 <!--
 **AdolfoRojasJ/AdolfoRojasJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
